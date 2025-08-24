@@ -4,7 +4,7 @@ This project showcases an interactive HR Analytics Dashboard developed in Power 
 DAX calculations to analyze and monitor key human resource metrics.
 The dashboard is designed to provide actionable insights for HR teams and management to make data-driven decisions.
 
-![HR DATA DASHBOARD]()
+![HR DATA DASHBOARD](https://github.com/yusra-20/PowerBI-HR-Analytics/blob/main/HR%20data%20visuals.png)
 
 
 ## QUESTIONS
