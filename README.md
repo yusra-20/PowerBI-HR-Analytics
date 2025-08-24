@@ -1,14 +1,13 @@
 # PowerBI-HR-Analytics
-This project showcases an interactive HR Analytics Dashboard developed in Power BI with DAX calculations to analyze and monitor key human resource metrics.
+
+This project showcases an interactive HR Analytics Dashboard developed in Power BI with 
+DAX calculations to analyze and monitor key human resource metrics.
 The dashboard is designed to provide actionable insights for HR teams and management to make data-driven decisions.
 
+![HR DATA DASHBOARD]()
 
-Total employees: 160
 
-Average salary: 54.04K
-
-Highest salary: 85K
-
+## QUESTIONS
 
 1. What is the gender distribution of employees in the organization?
      The dashboard shows that 55% of employees are female.
